@@ -3,9 +3,9 @@ Flask
 itsdangerous
 Jinja2
 MarkupSafe
-pymongo
 python-dotenv
 Werkzeug
 bson
+pymongo==3.13.0
 datetime 
-
+requests==2
